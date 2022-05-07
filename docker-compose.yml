@@ -12,6 +12,7 @@ services:
     volumes:
       - html:/var/www/html
     environment:
+      UDEV: on
       MYSQL_HOST: mariadb
       MYSQL_DATABASE: nextcloud
       MYSQL_USER: nextcloud
