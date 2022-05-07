@@ -7,7 +7,7 @@ Access & share your files, calendars, contacts, mail & more from any device, on 
 
 You can one-click-deploy this project to balena using the button below:
 
-[![deploy-with-balena](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/klutchell/balena-nextcloud&defaultDeviceType=raspberrypi4-64)
+[![deploy-with-balena](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/MatthiasKainer/balena-nextcloud&defaultDeviceType=raspberrypi4-64)
 
 ## Manual Deployment
 
